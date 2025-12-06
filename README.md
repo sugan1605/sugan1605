@@ -6,6 +6,6 @@
 
 - 🚀 I’m passionate about shipping clean, maintainable code and building products that people actually use.
 
-- 📱 Currently developing StreamCompass, where I focused on scalable architecture, TypeScript safety, and reusable UI components.
+- 📱 Currently developing StreamCompass, where I focused on scalable architecture, TypeScript safety, and reusable UI components. [StreamCompass](https://github.com/sugan1605/streamcompass)
 
 
