@@ -8,4 +8,6 @@
 
 - 📱 Currently developing StreamCompass, where I focused on scalable architecture, TypeScript safety, and reusable UI components. [StreamCompass](https://github.com/sugan1605/streamcompass)
 
+- 🎨 I use Figma to wireframe and design my interfaces before development — ensuring structure, clarity, and a consistent user experience.
+
 
