@@ -1,63 +1,21 @@
-# Hi there 👋
+# From customer operations to cloud infrastructure. ☁️
 
-I'm a Software Developer with a background in fullstack and mobile development, currently focusing on DevOps and Platform Engineering.
+I'm a Software Developer with a **Bachelor's degree in Frontend & Mobile Development**, currently working as a **Senior Customer Service Representative at Hertz** while transitioning into **DevOps, Cloud, and Platform Engineering**.
 
-I learn by building real systems rather than following tutorials. My current focus is developing practical experience across software delivery, infrastructure, automation, and cloud platforms.
+My current focus:
 
-## Current Focus
+**Python · Linux · REST APIs · Docker · CI/CD · Azure · Terraform · Kubernetes · Automation**
 
-- 🐍 Python
-- 🐧 Linux
-- 🐳 Docker
-- 🔄 CI/CD
-- ☁️ Azure
-- 🏗️ Terraform
-- ☸️ Kubernetes
-- 🔧 REST APIs
-- 🧪 Automated testing
-- ⚙️ Automation & Platform Engineering
+## 🚗 FleetOps
 
-## Main Project
+My main hands-on project: a fleet operations platform inspired by my experience working with operational and CRM systems in the car-rental industry.
 
-### 🚗 FleetOps
+I'm using FleetOps to build practical experience across:
 
-A cloud-native fleet operations platform built around a real-world car rental domain.
+**Software Development → Testing → Containers → CI/CD → Cloud → Infrastructure as Code → Kubernetes**
 
-FleetOps is my primary hands-on project for developing practical DevOps and software engineering experience.
-
-**Current areas of focus:**
-
-- Python application development
-- REST API design
-- PostgreSQL
-- Automated testing
-- Linux
-- Docker
-- CI/CD
-- Azure
-- Terraform
-- Kubernetes
-- Monitoring and observability
-- Infrastructure as Code
-
-The project is intentionally developed incrementally, with each stage introducing another part of the software delivery and infrastructure lifecycle.
-
-## How I Learn
-
-I prefer learning by building and solving problems rather than following tutorials.
-
-My focus is on understanding:
-
-- Why a system works
-- How it can fail
-- How to test it
-- How to deploy it
-- How to operate it
-- How to automate it
-- How to improve it as it grows
-
-I use AI as a development accelerator — not as a substitute for understanding.
+I learn by building, breaking, testing, and improving systems.
 
 ## Current Direction
 
-**DevOps · Cloud · Platform Engineering · Automation · Infrastructure as Code**
+**DevOps · Cloud Engineering · Platform Engineering · Infrastructure · Automation · SRE**
