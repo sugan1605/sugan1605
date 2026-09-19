@@ -18,4 +18,4 @@ I learn by building, breaking, testing, and improving systems.
 
 ## Current Direction
 
-**DevOps · Cloud Engineering · Platform Engineering · Infrastructure · Automation · SRE**
+**DevOps · Cloud Engineering · Platform Engineering · Infrastructure · Automation
