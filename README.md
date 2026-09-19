@@ -1,55 +1,63 @@
 # Hi there 👋
 
-I'm a Software Developer with a background in fullstack and mobile development, 
-focused on building reliable, maintainable software and learning how systems 
-work beyond the application layer.
+I'm a Software Developer with a background in fullstack and mobile development, currently focusing on DevOps and Platform Engineering.
 
-### What I'm working with
+I learn by building real systems rather than following tutorials. My current focus is developing practical experience across software delivery, infrastructure, automation, and cloud platforms.
 
-- 💻 **Fullstack & Mobile:** TypeScript, React, React Native, Next.js
-- ☁️ **Cloud & DevOps:** Currently building hands-on experience with Linux, Docker,
-  CI/CD, Azure, Terraform, and cloud infrastructure
-- ☁️ **Salesforce:** Apex, SOQL, DML, LWC, automation, and integrations
-- 🗄️ **Backend & Data:** Node.js, REST APIs, PostgreSQL, Firebase, Supabase
-- 🧪 **Engineering:** Testing, debugging, Git, API design, and clean architecture
+## Current Focus
 
-### What I build
+- 🐍 Python
+- 🐧 Linux
+- 🐳 Docker
+- 🔄 CI/CD
+- ☁️ Azure
+- 🏗️ Terraform
+- ☸️ Kubernetes
+- 🔧 REST APIs
+- 🧪 Automated testing
+- ⚙️ Automation & Platform Engineering
 
-I prefer learning by building real systems rather than following tutorials.
+## Main Project
 
-My projects focus on solving practical problems while developing a deeper
-understanding of architecture, APIs, databases, testing, deployment, and
-infrastructure.
+### 🚗 FleetOps
 
-### Featured Projects
+A cloud-native fleet operations platform built around a real-world car rental domain.
 
-🚗 **FleetOps**  
-A cloud-native fleet operations platform built around a real-world car rental
-domain.
+FleetOps is my primary hands-on project for developing practical DevOps and software engineering experience.
 
-> Python • PostgreSQL • Docker • CI/CD • Azure • Terraform • Kubernetes
+**Current areas of focus:**
 
-📱 **StreamCompass**  
-An AI-powered mobile application built with React Native and TypeScript,
-integrating external APIs and AI capabilities.
+- Python application development
+- REST API design
+- PostgreSQL
+- Automated testing
+- Linux
+- Docker
+- CI/CD
+- Azure
+- Terraform
+- Kubernetes
+- Monitoring and observability
+- Infrastructure as Code
 
-> React Native • TypeScript • Firebase • OpenAI
+The project is intentionally developed incrementally, with each stage introducing another part of the software delivery and infrastructure lifecycle.
 
-🏃 **Rehab Trace**  
-A cross-platform application for documenting and tracking sports-related
-injuries through structured observations and photo documentation.
+## How I Learn
 
-> React Native • TypeScript • Firebase
+I prefer learning by building and solving problems rather than following tutorials.
 
-### How I approach development
+My focus is on understanding:
 
-I don't want to simply make code work.
-
-I focus on understanding **why** a solution works, how it can fail, how to
-test it, and how it should evolve as the system grows.
+- Why a system works
+- How it can fail
+- How to test it
+- How to deploy it
+- How to operate it
+- How to automate it
+- How to improve it as it grows
 
 I use AI as a development accelerator — not as a substitute for understanding.
 
-### Currently focused on
+## Current Direction
 
-**Cloud • DevOps • Automation • Platform Engineering • Salesforce/Apex**
+**DevOps · Cloud · Platform Engineering · Automation · Infrastructure as Code**
