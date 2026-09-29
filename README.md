@@ -1,21 +1,70 @@
-# From customer operations to cloud infrastructure. ☁️
+Profile Studio
+README.md builder
 
-I'm a Software Developer with a **Bachelor's degree in Frontend & Mobile Development**, currently working as a **Senior Customer Service Representative at Hertz** while transitioning into **DevOps, Cloud, and Platform Engineering**.
+Theme
+ 
 
-My current focus:
+Identity
+About
+Stack
+Socials
+5
+Add-ons
+Dynamic add-ons
+Live widgets that auto-update on your real profile. They render from your GitHub username.
 
-**Python · Linux · REST APIs · Docker · CI/CD · Azure · Terraform · Kubernetes · Automation**
+GitHub stats card
+Stars, commits, PRs and issues at a glance.
+Top languages
+Most-used languages across your repositories.
+Contribution activity graph
+A themed line graph of your recent activity.
+Random dev quote
+A developer quote that refreshes on every visit.
+Back
 
-## 🚗 FleetOps
+Finish
+Preview
+Markdown
+Copy
+Download
+<p align="center">
+  <a href="https://github.com/sugan1605">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=666&text=Losugan%20Sivasuthan" alt="Losugan Sivasuthan" />
+  </a>
+</p>
 
-My main hands-on project: a fleet operations platform inspired by my experience working with operational and CRM systems in the car-rental industry.
+### 🚀 About Me
 
-I'm using FleetOps to build practical experience across:
+Software Developer on a mission to move from customer operations to DevOps. I like solving problems, breaking things, fixing them, and learning along the way. Currently building FleetOps and diving deep into Linux, Python, Docker, and cloud infrastructure. 🚀
 
-**Software Development → Testing → Containers → CI/CD → Cloud → Infrastructure as Code → Kubernetes**
+### 🛠️ Tech Stack
 
-I learn by building, breaking, testing, and improving systems.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-## Current Direction
+### 📊 GitHub Stats
 
-**DevOps · Cloud Engineering · Platform Engineering · Infrastructure · Automation
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sugan1605&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sugan1605&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sugan1605&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/sugan1605">sugan1605</a></i></p>
