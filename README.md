@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-Software Developer on a mission to move from customer operations to DevOps. I like solving problems, breaking things, fixing them, and learning along the way. Currently building FleetOps and diving deep into Linux, Python, Docker, and cloud infrastructure. 🚀
+Software Developer transitioning into Cloud Engineering and DevOps. I enjoy solving problems, understanding how systems work, and learning by building. Currently developing **FleetOps**, a hands-on project where I'm exploring Python, Linux, Docker, AWS, and cloud infrastructure.
 
 ### 🛠️ Tech Stack
 
